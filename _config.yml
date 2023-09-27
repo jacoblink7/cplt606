@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Digital Humanities Tutorial.
+tagline:             'My Poem'
+description:         'Just having a good time'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             '/cplt606'
 
 # About/contact
 author:
